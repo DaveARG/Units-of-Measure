@@ -93,7 +93,3 @@ Feel free to fork the repo, make changes, and submit a pull request. Contributio
 ---
 
 🚀 Enjoy working with the world's most comprehensive and updated unit of measure dataset!
-
-```
-
-```
