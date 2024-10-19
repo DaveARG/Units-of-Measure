@@ -41,7 +41,7 @@ Each Unit of Measure entry includes the following fields:
 
 Example:
 
-````json
+```json
 {
     "common_code": "NIU",
     "name": "number of international units",
@@ -54,19 +54,22 @@ Example:
 ```
 
 ## 🗂️ Available Formats
-- **CSV**: Simple, tabular format that can be easily viewed and manipulated in spreadsheet programs.
-- **JSON**: Ideal for web-based applications, lightweight and easy to parse.
-- **PHP**: Provides PHP arrays for seamless integration into PHP projects.
-- **SQL**: SQL dump file for quick database imports.
-- **Laravel**: Includes migrations and seeders for fast integration into Laravel projects.
+
+-   **CSV**: Simple, tabular format that can be easily viewed and manipulated in spreadsheet programs.
+-   **JSON**: Ideal for web-based applications, lightweight and easy to parse.
+-   **PHP**: Provides PHP arrays for seamless integration into PHP projects.
+-   **SQL**: SQL dump file for quick database imports.
+-   **Laravel**: Includes migrations and seeders for fast integration into Laravel projects.
 
 ## 🚀 Quick Start
 
 ### For Laravel Projects:
+
 1. Run the migrations:
-   ```bash
-   php artisan migrate --path=/database/migrations/0000_01_02_000090_create_level_and_categories_table.php
-   php artisan migrate --path=/database/migrations/0000_01_02_000091_create_units_of_measure_table.php
+
+    ```bash
+    php artisan migrate --path=/database/migrations/0000_01_02_000090_create_level_and_categories_table.php
+    php artisan migrate --path=/database/migrations/0000_01_02_000091_create_units_of_measure_table.php
     ```
 
 2. Run the seeders:
@@ -90,4 +93,7 @@ Feel free to fork the repo, make changes, and submit a pull request. Contributio
 ---
 
 🚀 Enjoy working with the world's most comprehensive and updated unit of measure dataset!
-````
+
+```
+
+```
